@@ -6,6 +6,7 @@ The app asks for your first, last, and school name. It also asks how many pets(d
 Once you hit the introduction button at the bottom it will send an alert to the phone printing all of your information back to you. 
 
 App Walk-though
+
 ![](https://github.com/PracticeApp/PracticeAppWalkThru.gif)
 
 Required Features
