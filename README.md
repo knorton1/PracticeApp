@@ -7,7 +7,7 @@ Once you hit the introduction button at the bottom it will send an alert to the 
 
 App Walk-though
 
-![](https://github.com/PracticeApp/PracticeAppWalkThru.gif)
+![](https://github.com/knorton1/PracticeApp/blob/main/PracticeAppWalkThru.gif)
 
 Required Features
 1. App displays an image of a school's logo
